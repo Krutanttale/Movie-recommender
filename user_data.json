@@ -1,0 +1,1148 @@
+{
+  "ratings": {
+    "1": 5,
+    "5": 4
+  },
+  "favorites": [
+    "2",
+    "1",
+    "3"
+  ],
+  "watchlist": [
+    "11",
+    "tt33318732"
+  ],
+  "movies": [
+    {
+      "id": "tt10698680",
+      "title": "K.G.F: Chapter 2",
+      "year": 2022,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmQzZjVkZTUtYjI4ZC00ZDJmLWI0ZDUtZTFmMGM1Mzc5ZjIyXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt7838252",
+      "title": "K.G.F: Chapter 1",
+      "year": 2018,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2M0YmIxNzItOWI4My00MmQzLWE0NGYtZTM3NjllNjIwZjc5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt27128495",
+      "title": "K.G.F: Chapter 3",
+      "year": 0,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMjdlNzUtNWEzZS00YmM3LWJhM2EtMDkwNTVmMDk0ZmY0XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt33028778",
+      "title": "Primate",
+      "year": 2025,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MDI3MjctMGQ1My00ODI1LWFmNjctMjdlNDdiYzcyMWMwXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt6776572",
+      "title": "Beauty and the Dogs",
+      "year": 2017,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGUwZTFkMTctZDYzYi00MmMxLWFlNDYtNDZlMWE2ZDQ4Mjk5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt37792342",
+      "title": "K.G.N",
+      "year": 2025,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGMxNDRmZWQtMjE4Mi00MjU3LTkyOGEtOTA4ZDhjM2ZiZWRjXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1726661",
+      "title": "Karate Girl",
+      "year": 2011,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGFjNWZkZjEtZGIxZi00ZmI4LWFlMzYtNTlmNzgwMDU0NGVlXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt15334664",
+      "title": "Who Killed the KLF?",
+      "year": 2021,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWY0YjAwMWQtNGMxNi00Mzc0LTgzYjEtMTRiZmFjZDA2YjhiXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0347145",
+      "title": "Harameya fi KG2",
+      "year": 2002,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzE0YzMwMTItM2E4ZS00YmQwLWFkYTEtZTJiMTMyOTQ2Zjc1XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0120338",
+      "title": "Titanic",
+      "year": 1997,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0046435",
+      "title": "Titanic",
+      "year": 1953,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NTUyMTc3Nl5BMl5BanBnXkFtZTgwOTA2MDE3MTE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt18394428",
+      "title": "Titanic 666",
+      "year": 2022,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzcxY2RjOWUtZmE2Yy00YTBlLWE4N2UtOTg5NjdiNTFjNzk1XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0081400",
+      "title": "Raise the Titanic",
+      "year": 1980,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGQ1YTExNDEtNmJhMS00M2Y4LWExNGEtNzFlZTQzYTExZTRmXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0036443",
+      "title": "Titanic",
+      "year": 1950,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "description": "Third Reich's Nazi propaganda epic about a heroic fictional German officer on board of the RMS Titanic. On its maiden voyage in April 1912, the supposedly unsinkable ship hits an iceberg in the Atlantic Ocean and starts to go down.",
+      "rating": 6.1,
+      "poster": "https://images.metahub.space/poster/small/tt0036443/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0079836",
+      "title": "S.O.S. Titanic",
+      "year": 1979,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzQxM2FjZjUtZDE4ZS00OTYxLTljYWMtMDFkZGEwYTY4ZWE5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt36462222",
+      "title": "Titanic: The Digital Resurrection",
+      "year": 2025,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDdiNzg1MTAtMWJiOC00ZDFmLTkzOWEtNDRmMTFjMjMwZGNlXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt15437998",
+      "title": "Titanic Ocean",
+      "year": 2026,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTUyODhiNzEtZjcyYy00YzdlLWJjNzgtZThiZDlkNzgzM2Q4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt27758742",
+      "title": "Titanic 2000",
+      "year": 1999,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTRhOGYzN2MtMTlmYi00ODIyLWI4YTEtNzljNzdjMGM4YjE5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0330994",
+      "title": "Titanic: The Legend Goes On...",
+      "year": 2000,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg5MjcxODAwMV5BMl5BanBnXkFtZTcwMTk4OTMwMg@@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt27713920",
+      "title": "Titanic",
+      "year": 2023,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTAyMTNhZGItMzQ5Ny00OGQxLThhNDMtYzUxOGZhYTVkYTIwXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt4247440",
+      "title": "Predator World",
+      "year": 2018,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "description": "Luxurious space-cruiser 'TITAN 1C' is hit by a meteor storm, allowing a deadly alien life-form to board. The plot revolves around the passengers' struggle to survive the extraterrestrial threat onboard the damaged ship.",
+      "rating": 2.3,
+      "poster": "https://images.metahub.space/poster/small/tt4247440/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt7852926",
+      "title": "Titanic: Kadhalum Kavunthu Pogum",
+      "year": 2025,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmUyMmU2YWItNzg3Ni00ODdmLTkwMjYtNDY4ODIxNjUyNWExXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1623780",
+      "title": "The Legend of the Titanic",
+      "year": 1999,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNDU5MTk1MV5BMl5BanBnXkFtZTgwMDk5NDUyMTE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0129923",
+      "title": "The Chambermaid on the Titanic",
+      "year": 1997,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjEyNTk3MWItNTY4Yi00N2ZlLWJhZmMtOGNjZmNhYmYyNzc5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2495766",
+      "title": "Titanic",
+      "year": 2012,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjVlNTYxYTktMWQ3OS00YTdkLWIwZTYtMTE5NGFlMDFmYmUxXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2364941",
+      "title": "Titanic: The Aftermath",
+      "year": 2012,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODg0MTI5MjktOTBjZC00NDE4LWEyNzYtZTMyYmFlOTA0Y2VkXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1640571",
+      "title": "Titanic II",
+      "year": 2010,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "description": "A century after the fateful voyage of the original, modern luxury liner Titanic II sets sail. Will this ship suffer the same fate as her namesake?",
+      "rating": 1.6,
+      "poster": "https://images.metahub.space/poster/small/tt1640571/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt12100782",
+      "title": "Back to the Titanic",
+      "year": 2020,
+      "genres": [
+        "Documentary"
+      ],
+      "description": "Back to the Titanic documents the first manned dives to Titanic in nearly 15 years. New footage reveals fresh decay and sheds light on the ship's future.",
+      "rating": 6.2,
+      "poster": "https://images.metahub.space/poster/small/tt12100782/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2084931",
+      "title": "Saving the Titanic",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "description": "The story of the engineers who worked tirelessly to keep the electric power running as the Titanic sank. Their selfless actions kept the lights on and the electric lifeboat winches operational to facilitate the survival of others.",
+      "rating": 7.3,
+      "poster": "https://images.metahub.space/poster/small/tt2084931/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt3020814",
+      "title": "Reflections on Titanic",
+      "year": 2012,
+      "genres": [
+        "Documentary"
+      ],
+      "description": "A fascinating in-depth exploration of the film.",
+      "rating": 7.5,
+      "poster": "https://images.metahub.space/poster/small/tt3020814/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt37017342",
+      "title": "Implosion: The Titanic Sub Disaster",
+      "year": 2025,
+      "genres": [
+        "Documentary"
+      ],
+      "description": "In June 2023, the OceanGate submersible imploded, killing all on board. Uncover the extraordinary story of what led to the disaster and its potential prevention, with exclusive access to the USCG investigation and never-before-see...",
+      "rating": 6.8,
+      "poster": "https://images.metahub.space/poster/small/tt37017342/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2363459",
+      "title": "Nazi Titanic",
+      "year": 2012,
+      "genres": [
+        "Documentary",
+        "History",
+        "War"
+      ],
+      "description": "Nazi Titanic is the amazing and unknown story of one of the most bizarre chapters of WWII. In the middle of the war, Nazi propaganda minister Joseph Goebbels, who was fascinated by the Titanic, decided to make a movie based on the...",
+      "rating": 7.1,
+      "poster": "https://images.metahub.space/poster/small/tt2363459/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2132504",
+      "title": "Titanic: The Final Word with James Cameron",
+      "year": 2012,
+      "genres": [
+        "Documentary"
+      ],
+      "description": "Engineers, architects and historians are assembled to examine why the Titanic sank, using new technology that has come to light since James Cameron's film Titanic (1997).",
+      "rating": 7.5,
+      "poster": "https://images.metahub.space/poster/small/tt2132504/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2169432",
+      "title": "Titanic: 100 Years On",
+      "year": 2012,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "description": "The \"unsinkable\" floating palace set sail from Southampton on 10th April 1912 on her maiden voyage to New York. An iceberg ended this monumental journey 5 days later.",
+      "rating": 7.0,
+      "poster": "https://images.metahub.space/poster/small/tt2169432/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt4743564",
+      "title": "Drain the Titanic",
+      "year": 2015,
+      "genres": [
+        "Documentary"
+      ],
+      "description": "Computer-generated imagery and other visualization techniques reveal how it would look if all the water was removed from RMS Titanic's final resting place.",
+      "rating": 6.3,
+      "poster": "https://images.metahub.space/poster/small/tt4743564/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt7286456",
+      "title": "Joker",
+      "year": 2019,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt11315808",
+      "title": "Joker: Folie à Deux",
+      "year": 2024,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1918886",
+      "title": "Joker",
+      "year": 2012,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE0NjIxODMxN15BMl5BanBnXkFtZTcwMjM5MDcxOA@@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt5611648",
+      "title": "Joker",
+      "year": 2016,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg3NzU5Mzg1MF5BMl5BanBnXkFtZTgwODIxMDg4MDI@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt21651430",
+      "title": "The People's Joker",
+      "year": 2022,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTA2YWYxYWUtODA3Ni00MTI4LTkxYjktMDQ2M2M3MzZmZGU4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2548208",
+      "title": "Poker Night",
+      "year": 2014,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTc5NjIyODM2M15BMl5BanBnXkFtZTgwMTMyNzE4MDE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2231253",
+      "title": "Wild Card",
+      "year": 2015,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNjkyOTgzNF5BMl5BanBnXkFtZTgwMTk0MDc2MzE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0066070",
+      "title": "My Name Is Joker",
+      "year": 1970,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODAwNWQ1ZjgtZTRiOC00MTcwLTg2ZjEtNjRhNzI5ODFkZjNlXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0102166",
+      "title": "Joker",
+      "year": 1991,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjg3YjFhNzItMzVmZC00Zjg3LWEzZjYtMGViOGM3MjVjNmJhXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt13212978",
+      "title": "Joker: Part II",
+      "year": 2021,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWFlZDJlN2QtNGJmMi00NGM2LWEzZjgtNmUwYzZhZTBkNzMwXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0050569",
+      "title": "The Joker Is Wild",
+      "year": 1957,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWM5NTEyMWQtZmZiYS00NDJjLThlNGUtNTMyNTA0NjA0Yjk5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0093318",
+      "title": "Lethal Obsession",
+      "year": 1987,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDY2MjU1OGQtOTU1Zi00YzhiLTk3MjktNjI3YjdiOGJjZGE4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2941260",
+      "title": "Joker Rising",
+      "year": 2013,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE2NjExOTYwMV5BMl5BanBnXkFtZTgwNzUxMDEwMDE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt26738615",
+      "title": "Joker Joker",
+      "year": 2023,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjYwNzhhOTMtOTI3Ni00ZTc0LTg4NDgtNDVmMmFiNGU1NTk1XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0406892",
+      "title": "Joker",
+      "year": 2000,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOWMyODItN2VmOS00OWVhLWJjOTgtZDk4ZTg2NTY0MjVhXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0233298",
+      "title": "Batman Beyond: Return of the Joker",
+      "year": 2000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "description": "The Joker is back with a vengeance, and Gotham's newest Dark Knight needs answers as he stands alone to face Gotham's most infamous Clown Prince of Crime.",
+      "rating": 7.8,
+      "poster": "https://images.metahub.space/poster/small/tt0233298/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt3446906",
+      "title": "Joker Game",
+      "year": 2015,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "description": "In Japan, Lieutenant Colonel Yuki (Yusuke Iseya) recommends the creation of spy training school \"D Kikan\".",
+      "rating": 5.3,
+      "poster": "https://images.metahub.space/poster/small/tt3446906/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt3894558",
+      "title": "Joker's Poltergeist",
+      "year": 2016,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "description": "Clowns are no joking matter.",
+      "rating": 1.9,
+      "poster": "https://images.metahub.space/poster/small/tt3894558/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt9208444",
+      "title": "Impractical Jokers: The Movie",
+      "year": 2020,
+      "genres": [
+        "Comedy"
+      ],
+      "description": "The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.",
+      "rating": 5.7,
+      "poster": "https://images.metahub.space/poster/small/tt9208444/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0060566",
+      "title": "The Jokers",
+      "year": 1967,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "description": "Michael Tremayne (Michael Crawford) and David Tremayne (Oliver Reed) decide to steal the Crown Jewels from the Tower of London, not for criminal purposes, but to make themselves famous.",
+      "rating": 6.5,
+      "poster": "https://images.metahub.space/poster/small/tt0060566/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0498521",
+      "title": "Lady Joker",
+      "year": 2004,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 6.2,
+      "poster": "https://images.metahub.space/poster/small/tt0498521/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2524638",
+      "title": "Joker Game",
+      "year": 2012,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "description": "All seniors at a high school stay together at a camp, including student Chinatsu (Rie Kitahara). On their first day, the homeroom teacher announces that all the students must play the card game \"Old Maid\". In order to reverse the ...",
+      "rating": 5.0,
+      "poster": "https://images.metahub.space/poster/small/tt2524638/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt5884052",
+      "title": "Pokémon: Detective Pikachu",
+      "year": 2019,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0190641",
+      "title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+      "year": 1998,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDg0ZDk2N2QtZDQzYi00ZTljLWExODgtZWQ2Y2YzZTA1NjVjXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0210234",
+      "title": "Pokémon the Movie 2000",
+      "year": 2000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "Ash Ketchum must gather the three spheres of fire, ice and lightning in order to restore balance to the Orange Islands.",
+      "rating": 6.1,
+      "poster": "https://images.metahub.space/poster/small/tt0210234/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0235679",
+      "title": "Pokémon 3 the Movie: Spell of the Unown",
+      "year": 2001,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "In the town of Greenfield, a young, lonely girl's dreams and wishes are brought into reality by a collective of reality-warping Pokémon.",
+      "rating": 5.9,
+      "poster": "https://images.metahub.space/poster/small/tt0235679/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt6595896",
+      "title": "Pokémon the Movie: I Choose You!",
+      "year": 2017,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTI5M2RmMWUtOGFlMC00M2YxLThiZjUtMjZkNjI3NWQ5NjkwXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0287635",
+      "title": "Pokemon 4Ever: Celebi - Voice of the Forest",
+      "year": 2001,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTljMWI4MTUtMGUwMS00ZjUzLWIwMjctY2ZmMzUyOTgxYTBlXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0347791",
+      "title": "Pokémon Heroes",
+      "year": 2002,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAxOTQ2MjMzN15BMl5BanBnXkFtZTYwOTQwMDE3._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt9664112",
+      "title": "Pokémon Detective Pikachu Sequel",
+      "year": 0,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt9664112/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1226251",
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTYzODUzMF5BMl5BanBnXkFtZTgwMTcxOTk0MDE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt11819890",
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "year": 2021,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "The story of Koko, a young boy raised by Pokémon, and the creation of a new bond between humans and Pokémon.",
+      "rating": 6.4,
+      "poster": "https://images.metahub.space/poster/small/tt11819890/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0875609",
+      "title": "Pokémon: Lucario and the Mystery of Mew",
+      "year": 2005,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTcwNjAwMl5BMl5BanBnXkFtZTgwMjc2MzQ2NjE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt4503906",
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTc4MzA2OTg1OF5BMl5BanBnXkFtZTgwNzcyNDAwODE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0435286",
+      "title": "Pokémon the Movie: Destiny Deoxys",
+      "year": 2004,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg5ODY1MzEtMGRmMS00ZWM3LTk0MTMtMzk1OTgxM2U5ZDYwXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0420076",
+      "title": "Pokémon: Jirachi - Wish Maker",
+      "year": 2003,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQzZTc5NGQtN2JiNy00Mzg4LWJmMmQtMjU5OWQwN2M0MTU4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt8856470",
+      "title": "Pokémon: Mewtwo Strikes Back - Evolution",
+      "year": 2019,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDY0NmYyNmYtZDdjYy00M2IyLThiNjctZGYwN2EzNmIzN2I1XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt8108230",
+      "title": "Pokémon the Movie: The Power of Us",
+      "year": 2018,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWZiMGUzNTMtNmFkMS00YWQwLTgwOTYtNTA4YWFhNjBkM2Q2XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1468843",
+      "title": "Pokémon: Arceus and the Jewel of Life",
+      "year": 2009,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTc1YTdiMTYtOThiOC00M2U4LWIyNzgtNjM1MGRlZTVkOTlmXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0257001",
+      "title": "#DUPE#",
+      "year": 1999,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "Ash Ketchum must gather the three spheres of fire, ice and lightning in order to restore balance to the Orange Islands.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt0257001/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt3918368",
+      "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+      "year": 2014,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "When Diancie a Pokémon said to create diamond travels to find Xerneas to help her make a heart diamond to save her home, Ash, Serena, Clemont and Bonnie help her to be safe on the way from thieves.",
+      "rating": 5.5,
+      "poster": "https://images.metahub.space/poster/small/tt3918368/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0304564",
+      "title": "Pokémon: Mewtwo Returns",
+      "year": 2000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "description": "Team Rocket's memories of Mewtwo had been erased, but the Team Rocket scientists' logs have not. After uncovering the logs, they track down Mewtwo and build a Base in a Johto. Ash and company meet Mr. Giovanni for the first time.",
+      "rating": 6.5,
+      "poster": "https://images.metahub.space/poster/small/tt0304564/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt5889204",
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "year": 2016,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "A mystical Pokémon by the name of Volcanion must accept Ash's help to rescue the Azoth Kingdom.",
+      "rating": 5.9,
+      "poster": "https://images.metahub.space/poster/small/tt5889204/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0266860",
+      "title": "#DUPE#",
+      "year": 2000,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "In the town of Greenfield, a young, lonely girl's dreams and wishes are brought into reality by a collective of reality-warping Pokémon.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt0266860/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt2549540",
+      "title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+      "year": 2012,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "description": "An over zealous pokemon called Keldeo enrages a very powerful Kyurem. With the help of Ash and Pikachu, can Keldeo become a sword of justice and defeat the mighty Kyurem?",
+      "rating": 5.5,
+      "poster": "https://images.metahub.space/poster/small/tt2549540/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt33318732",
+      "title": "Jailer 2",
+      "year": 2026,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt11663228",
+      "title": "Jailer",
+      "year": 2023,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTRlNzE2ODUtMWU5Zi00OTFhLTk5NzMtYmMwMjMxZmRiOGQ4XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt49354082",
+      "title": "Jailer 3",
+      "year": 0,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt49354082/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt43407741",
+      "title": "Jailer Jagannath",
+      "year": 1993,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt43407741/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt4633690",
+      "title": "Shot Caller",
+      "year": 2017,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDc4MzgxYzEtOTAxOC00NzY5LTk5NjctMTllYTQ3ZjYzZmQ1XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0181984",
+      "title": "Boiler Room",
+      "year": 2000,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGU2NmQwNTQtNzVkYi00MDg4LTk5NWUtZDE5ZWM2NDA1N2JlXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt3390572",
+      "title": "Haider",
+      "year": 2014,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA1NTEwMDMxMF5BMl5BanBnXkFtZTgwODkzMzI0MjE@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0122557",
+      "title": "The Jailers",
+      "year": 1990,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://images.metahub.space/poster/small/tt0122557/img",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt1525890",
+      "title": "The Caller",
+      "year": 2011,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzY3ODA5Ml5BMl5BanBnXkFtZTcwNDQ4NTgxNg@@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0059504",
+      "title": "Blood Beast from Outer Space",
+      "year": 1965,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWIzYzkzMTctZTMyNy00MzZhLTg3OWYtY2E3ZWE0NzYzNzFhXkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    },
+    {
+      "id": "tt0097007",
+      "title": "The Caller",
+      "year": 1987,
+      "genres": [
+        "Other"
+      ],
+      "description": "Movie details were not provided by the search API.",
+      "rating": 0.0,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjgzMWM3YTMtN2U3MC00M2I1LTlmOTAtNGFhOWU2MjY5MDQ5XkEyXkFqcGc@._V1_SX250.jpg",
+      "source": "Cinemeta"
+    }
+  ]
+}
