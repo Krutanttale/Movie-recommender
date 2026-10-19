@@ -211,3 +211,4 @@ Favorites, watchlist entries, and personal ratings are saved locally in JSON fil
 - **Category:** Python, Streamlit, Movie Discovery & Recommendation
 - **Version:** 1.0.0
 - **Movie metadata provider:** Cinemeta
+- **Devloper** Krutant Tale
